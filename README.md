@@ -14,17 +14,18 @@ I want to be a developer who brings convenience to people. ✨
   <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Recoil-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
+
   <br>
-  <img src="https://img.shields.io/badge/-MongoDB-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-MongoDB-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://eungwang1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="https://eungwang1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
+  <a href="https://eungwang1.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="mailto:eungwang1203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
   
 </p>
