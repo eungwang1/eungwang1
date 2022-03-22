@@ -16,13 +16,10 @@ I want to be a developer who brings convenience to people. ✨
   <img src="https://img.shields.io/badge/-Redux-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Recoil-lightgrey"/>&nbsp
   
+ 
   <br>
-  <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
-
-  <br>
-  <img src="https://img.shields.io/badge/-AWS-lightgrey"/>&nbsp
+  <img src="https://img.shields.io/badge/-Vercel-lightgrey"/>&nbsp
   <img src="https://img.shields.io/badge/-MongoDB-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-lightgrey"/>&nbsp
 </p>
