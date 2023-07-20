@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=EUNGWANG&fontColor=999&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=EUNGWANG&fontColor=999&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -13,15 +13,13 @@ I want to be a developer who brings convenience to people. ✨
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
-  
+  <img src="https://img.shields.io/badge/-Nodejs-339933"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Next.js-lightgrey"/>&nbsp
-  <img src="https://img.shields.io/badge/-Redux-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vercel-lightgrey"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-lightgrey"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nest.js-E0234E"/>&nbsp
+  <br>
 </p>
 
 <h3 align="center">•••</h3>
