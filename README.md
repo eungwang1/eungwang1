@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=EUNGWANG&fontColor=999&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -5,6 +7,10 @@
 I'm Eungwang Sim, a growing developer. 🌱 <br>
 I want to be a developer who brings convenience to people. ✨
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eungwang1&show_icons=true&theme=radical)
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
@@ -14,13 +20,7 @@ I want to be a developer who brings convenience to people. ✨
   <br>
   <img src="https://img.shields.io/badge/-Next.js-lightgrey"/>&nbsp
   <img src="https://img.shields.io/badge/-Redux-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Recoil-lightgrey"/>&nbsp
-  
- 
-  <br>
-  <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Vercel-lightgrey"/>&nbsp
-  <img src="https://img.shields.io/badge/-MongoDB-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-lightgrey"/>&nbsp
 </p>
 
@@ -35,3 +35,5 @@ I want to be a developer who brings convenience to people. ✨
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+
+</div>
